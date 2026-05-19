@@ -1,1 +1,2 @@
-Developer B version
+
+print("Developer A and B")
